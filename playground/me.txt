@@ -1,5 +1,1 @@
-{{#user}
-Name: Rohit Tiwari
-Skills: HTML, CSS, JS, React Js
-Email: rt82736736@gmail.com
-{{/user}}
+
